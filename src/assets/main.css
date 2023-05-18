@@ -10,6 +10,6 @@ a {
 a:hover,
 a:active,
 a.router-link-active {
-  color: orangered;
+  color: lightseagreen;
   background-color: bisque;
 }
