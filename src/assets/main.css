@@ -1,0 +1,15 @@
+body {
+  margin-inline: auto;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover,
+a:active,
+a.router-link-active {
+  color: orangered;
+  background-color: bisque;
+}
